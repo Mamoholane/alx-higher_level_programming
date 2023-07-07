@@ -1,1 +1,1 @@
-0x07-python-test_driven_development- All Solutions
+Solution to 0x07. Python - Test-driven development tasks
